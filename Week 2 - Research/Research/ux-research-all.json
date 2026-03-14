@@ -1,0 +1,148 @@
+{
+  "literatureReviews": [
+    {
+      "id": "365254f8-7e87-4ed1-b4a1-27cfa89c7a01",
+      "resourceName": "Contextual XR Visualizations for Sports Analytics",
+      "resourceUrl": "https://dash.harvard.edu/entities/publication/984c43f2-8d69-4777-b03d-2e806dbe957f",
+      "resourceInsights": "Provocarea fundamentală identificată în vizualizarea sportivă este tranziția de la mediile desktop structurate la contextul dinamic și de înaltă presiune al terenului de joc. Vizualizările XR contextuale permit prezentarea datelor relevante direct în contextul lor fizic, îmbunătățind acuratețea și inteligibilitatea analizei datelor spațiale dinamice. În baschet, vizualizările integrate direct în scene dinamice permit explorarea interactivă a datelor spațiale în evoluție, în timp real.",
+      "comments": "Pentru acest proiect, cercetarea subliniază că interfața căștii MR nu trebuie să fie doar o oglindire a ecranului tabletei, ci trebuie să utilizeze vizualizări \"situate\". Datele (viteza jucătorului, probabilitatea de aruncare) trebuie ancorate de poziția fizică a jucătorului, nu plasate într-un meniu static.",
+      "createdAt": "2026-02-26T06:08:47.727Z"
+    },
+    {
+      "id": "66a2629c-100d-49b7-aaa9-b42be57f21f8",
+      "resourceName": "MRCoach—Real-Time IoT-Enabled Mixed Reality System",
+      "resourceUrl": "https://www.researchgate.net/publication/395737956_MRCoach_A_Real-Time_IoT-Enabled_Mixed_Reality_System_with_Semantic-Aware_Transmission_for_Smart_Sports_and_Personalized_Coaching",
+      "resourceInsights": "Sistemul MRCoach introduce o arhitectură pentru reconstrucția 3D volumetrică a sportivilor, permițând compararea mișcărilor în timp real. O strategie de \"Transmisie Semantică Adaptivă\" prioritizează articulațiile relevante pentru sport, reducând latența la doar 79.9 ms și menținând un frame rate de >= 56 FPS. Acest lucru este vital pentru a preveni răul de mișcare și pentru a asigura urmărirea precisă a sportivului.",
+      "comments": "Această resursă oferă punctele de referință tehnice pentru cerința \"Căști AR\". Designul trebuie să includă un mod de \"înaltă fidelitate\" pentru analize critice (cum ar fi loviturile libere) și un mod de \"lățime de bandă redusă\" pentru poziționarea tactică generală.",
+      "createdAt": "2026-02-26T06:10:18.597Z"
+    },
+    {
+      "id": "fcb100e6-e264-4907-bf70-b8d10e18a6e3",
+      "resourceName": "Power BI for Sports Analytics",
+      "resourceUrl": "https://www.scienceforsport.com/power-bi/",
+      "resourceInsights": "Microsoft Power BI este identificat ca un instrument critic pentru integrarea surselor de date disparate—GPS, wearables, sarcini de antrenament și istoricul accidentărilor. Limbajul DAX permite crearea de \"Indici de Performanță Dinamici\" care reflectă sarcinile de lucru și intensitățile în timp real în timpul unui meci.",
+      "comments": "Această cercetare definește partea de \"Tabletă/Mobil\" a proiectului. Tableta este suprafața pentru \"Date Profunde\" unde antrenorul caută corelații complexe. Interfața trebuie să permită un tablou de bord modular unde antrenorul poate vedea pulsul live alături de istoricul medical.",
+      "createdAt": "2026-02-26T06:11:17.067Z"
+    },
+    {
+      "id": "bb21f322-468b-4238-9236-20546616c276",
+      "resourceName": "The Modern Performance Coach’s Tech Stack",
+      "resourceUrl": "https://simplifaster.com/articles/the-modern-performance-coachs-tech-stack/",
+      "resourceInsights": "Tehnologia în sportul de elită este categorisită în cinci piloni bazați pe rezultate: Aleargă mai repede, Sari mai sus, Ridică mai inteligent, Recuperează-te mai bine și Gestionează datele. Valoarea principală este claritatea; datele obiective înlocuiesc impresiile subiective de tipul \"a părut mai rapid\".",
+      "comments": "În proiectarea UI, designerul ar trebui să folosească acești \"piloni\" pentru a organiza meniul de navigare. Un \"Monitor de Oboseală\" ar trebui să fie o funcție proeminentă pe tabletă, extrăgând date atât din GPS, cât și din monitoarele cardiace.",
+      "createdAt": "2026-02-26T06:12:27.306Z"
+    },
+    {
+      "id": "390ec0a1-841c-4fc8-b606-b80716d4b3e3",
+      "resourceName": "UX/UI Design Principles in SportsTech",
+      "resourceUrl": "https://lollypop.design/blog/2019/may/ux-ui-design-principles-in-sportstech/",
+      "resourceInsights": "Mediile sportive cu date dense necesită un echilibru între informațiile complexe și uzabilitatea rapidă. Principiile cheie includ \"Regula de +/- 7 elemente\" (oamenii pot procesa doar 5-9 elemente simultan) și principiile Gestalt de similaritate și proximitate pentru gruparea datelor corelate. Se recomandă o abordare \"mobile-first\", începând cu cel mai mic ecran pentru a prioritiza datele critice.",
+      "comments": "Interfața smartwatch-ului nu ar trebui să afișeze niciodată mai mult de 5 elemente. Tableta ar trebui să utilizeze fonturi precum Roboto Condensed sau Oswald pentru lizibilitatea cifrelor. Recomandarea de a folosi culori neutre (albastru/gri) pentru a contrabalansa adrenalina antrenorului este esențială.",
+      "createdAt": "2026-02-26T06:13:21.419Z"
+    },
+    {
+      "id": "5113e4ca-1e09-4829-9c25-c1b0eec3ca88",
+      "resourceName": "Multi-device Experience Design and Frictionless Transitions",
+      "resourceUrl": "https://medium.com/@marketingtd64/multi-device-experience-design-from-smartwatches-to-smart-homes-4b533296c178",
+      "resourceInsights": "Un ecosistem multi-dispozitiv trebuie să ofere o tranziție fără fricțiune între suprafețe, păstrând contextul și progresul utilizatorului. Aceasta se realizează prin \"Context-Awareness\", unde dispozitivul își recunoaște punctele forte—notificări rapide pentru smartwatch, tablouri de bord detaliate pentru tablete și suprapuneri imersive pentru AR.",
+      "comments": "Pentru acest proiect, \"Continuitatea Contextului\" este obligatorie. Dacă antrenorul primește o \"Alertă de Oboseală\" pe smartwatch, tableta ar trebui să afișeze automat datele biomecanice detaliate ale acelui jucător atunci când este ridicată.",
+      "createdAt": "2026-02-26T06:14:14.473Z"
+    },
+    {
+      "id": "542ce8a0-97c0-47bc-b9f9-9cff7dea0d66",
+      "resourceName": "Visual-Haptic Feedback in Sports Training",
+      "resourceUrl": "https://ieeexplore.ieee.org/iel8/6287639/10820123/10908851.pdf",
+      "resourceInsights": "Feedback-ul haptic oferă indicii imediate și intuitive fără a se baza pe canalele vizuale sau auditive, care sunt adesea suprasolicitate în stadioane zgomotoase. Transmiterea feedback-ului haptic la încheieturi și glezne îmbunătățește semnificativ conștientizarea corpului și reduce timpul de reacție.",
+      "comments": "Această resursă informează designul smartwatch-ului. Comunicarea către staff nu ar trebui să fie doar text, ci să utilizeze \"Modele Haptice\". O vibrație scurtă-scurtă-lungă ar putea însemna \"Schimbare Defensivă\", permițând staff-ului să primească instrucțiuni fără a privi dispozitivul. ",
+      "createdAt": "2026-02-26T06:16:57.617Z"
+    },
+    {
+      "id": "1170fb21-2ceb-41f3-8cf5-6d5e36dbbf53",
+      "resourceName": "UX for Wearables and Smartwatch Design",
+      "resourceUrl": "https://aguayo.co/en/blog-aguayo-user-experience/ux-for-wearable/",
+      "resourceInsights": "UX-ul pentru wearables cere un \"Design Centrat pe Prezență\", unde timpii de răspuns sunt aproape instantanți. Caracteristicile cheie includ interacțiunea fără mâini (comenzi vocale, gesturi ale încheieturii) și contextul permanent activ.",
+      "comments": "Componenta smartwatch a proiectului ar trebui să includă control prin gesturi. De exemplu, o mișcare dublă a încheieturii ar putea confirma o instrucțiune trimisă staff-ului. Interfața trebuie optimizată pentru lumina directă a soarelui.",
+      "createdAt": "2026-02-26T06:17:56.449Z"
+    },
+    {
+      "id": "da751071-8395-4835-9631-c80c603bf72f",
+      "resourceName": "VR/AR Technologies in Football",
+      "resourceUrl": "https://arwall.co/blogs/arwall-blogs/vr-ar-technologies-in-football",
+      "resourceInsights": " AR transformă antrenamentul prin \"Augmented Tactical Coaching\", proiectând grile de formație și linii tactice direct pe teren. Antrenorii pot folosi ochelari AR pentru a pune pauză jocului și a desena săgeți virtuale sau zone de căldură (heat zones) în timp real.",
+      "comments": " Cerința proiectului pentru ochelari MR ar trebui să se concentreze pe suprapuneri tactice ancorate. Designerul trebuie să prioritizeze \"Siguranța Vizuală\", asigurându-se că elementele digitale nu blochează vederea mingii sau a jucătorilor reali. ",
+      "createdAt": "2026-02-26T06:18:52.656Z"
+    },
+    {
+      "id": "f19eceae-bfac-47c0-b853-c06cfa806b73",
+      "resourceName": "Smartwatch Flagging and Match Visualization",
+      "resourceUrl": "https://dl.nkmr-lab.org/papers/600/paper.pdf",
+      "resourceInsights": "Smartwatch-urile sunt ideale pentru a \"marca\" (flagging) scene importante din meci fără a întrerupe sarcinile principale. Utilizatorii înregistrează mai multe intrări și au timpi de răspuns mai scurți folosind smartwatch-uri față de smartphone-uri. Aceste marcaje pot fi revizuite ulterior prin conectarea marcajului temporal cu filmarea video.",
+      "comments": "Smartwatch-ul în acest proiect ar trebui să servească drept \"Match Booker\". Dacă antrenorul vede o fază importantă, o singură atingere pe ceas marchează acel moment. Pe tabletă, aceste marcaje apar ca o \"Cronologie\" pentru analiza de la pauză. ",
+      "createdAt": "2026-02-26T06:19:52.854Z"
+    },
+    {
+      "id": "9f804254-19a1-4858-9af7-8fbad8e6b141",
+      "resourceName": "Coach-to-Player/Staff Communication Systems",
+      "resourceUrl": "https://gorout.com/coach-to-player-communication-system/",
+      "resourceInsights": "Sistemele de comunicare precum GoRout înlocuiesc semnalele manuale cu mesaje digitale sigure și criptate. Aceste sisteme permit tranziții mai rapide între faze și mai puține erori cauzate de semnale interpretate greșit. Sunt construite pentru a funcționa în orice condiții meteo, utilizând rețele celulare securizate în locul Wi-Fi-ului.",
+      "comments": " Interfața pentru trimiterea fazelor de pe tabletă trebuie să fie un sistem de tip \"One-Touch\". Nu ar trebui să existe tastare în timpul meciului; totul trebuie să fie selectabil dintr-un manual tactic predefinit pentru viteză maximă.",
+      "createdAt": "2026-02-26T06:21:07.814Z"
+    },
+    {
+      "id": "78c3925e-bd9e-4206-8f3a-01ef23247e95",
+      "resourceName": "High-Performance Sport Environments (HPSEs)",
+      "resourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11933008/",
+      "resourceInsights": "Un mediu de înaltă performanță trebuie să echilibreze obiectivele de performanță cu bunăstarea sportivilor. Tehnologia trebuie să sprijine acest lucru prin furnizarea de date nu doar despre victorie, ci și despre \"nivelul de pregătire\" (readiness) și prevenirea accidentărilor.",
+      "comments": "UI-ul ar trebui să aibă o vedere dedicată \"Wellbeing\". În loc de doar viteză și distanță, tableta ar trebui să afișeze \"Indici de Oboseală\" și \"Scoruri de Pregătire\".",
+      "createdAt": "2026-02-26T06:22:41.520Z"
+    }
+  ],
+  "observationalResearch": [
+    {
+      "id": "626541f0-b053-4499-9f8a-b6a7fdfae326",
+      "target": "Antrenorul unei echipe de fotbal",
+      "dateTime": "0206-02-21T11:00",
+      "behavior": "Am fost pe stadion la meciul de Liga a 2-a dintre Politehnica Iași și Csm Olimpia Satu Mare. Antrenorul principal al 	echipei oaspete era foarte nervos în minutul 51 deoarece jucătorii săi nu pot să urmeze indicațiile tactice iar echipa sa tocmai a 	încasat un nou gol, fiind condusă cu 2-0. El se plânge antrenorului secund care asista neputincios la problemele echipei.",
+      "comments": "Ar fi util un instrument care să faciliteze comunicarea dintre jucători și antrenori",
+      "duration": "90 minute",
+      "createdAt": "2026-02-26T07:27:03.721Z"
+    }
+  ],
+  "competitiveAnalysis": [
+    {
+      "id": "54db2283-dd7d-4298-8e1c-c8d3eed580bb",
+      "competitorName": "bcoach",
+      "competitorType": "direct",
+      "website": "https://bcoach.app/en/home/",
+      "targetAudience": "Antrenori de fotbal si futsal",
+      "firstImpressions": "Interfața aplicației arata foarte bine, profesionist. ",
+      "interactionNotes": "Aplicația este bine optimizata si facilitează mult munca antrenorilor",
+      "accessibilityScore": "",
+      "userFlowNotes": "Aplicația este foarte ușor de folosit de către antrenori",
+      "navigationNotes": "Foarte intuitiva pentru persoanele care sunt direct implicate in acest domeniu",
+      "brandingNotes": "Aplicația are un design bun, ",
+      "contentTone": "Aplicația pune la dispoziția antrenorilor o gama variata de instrumente care pot fi foarte folositoare in ajustarea tacticilor.",
+      "strengths": "Are foarte multe funcționalități, este o aplicație care poate ajuta antrenorii din multe perspective",
+      "weaknesses": "In unele cazuri jucătorii sunt reprezentați prea simplu din punct de vedere al designului. Prețul mare al aplicatiei",
+      "createdAt": "2026-02-24T09:33:13.687Z"
+    },
+    {
+      "id": "df600b23-e9e0-4399-8080-00de261067cc",
+      "competitorName": "Coach Now",
+      "competitorType": "indirect",
+      "website": "https://coachnow.com/",
+      "targetAudience": "Atleti si antrenori de fitness",
+      "firstImpressions": "Aplicația are un design elegant",
+      "interactionNotes": "Răspunde bine la interacțiunile cu utilizatorul",
+      "accessibilityScore": "Aplicatia este destul de variata ",
+      "userFlowNotes": "Userul își poate ineplini cu usurinta sarcinile folosind aplciatia",
+      "navigationNotes": "Intuitiva pentru oamenii atât cu experienta in sport cat si pentru cei fără",
+      "brandingNotes": "Designul este bun, tonul obiectiv, utila pentru pasionații de sport",
+      "contentTone": "Utilizatorii au o gama variata de lucruri pe care le pot realiza cu ajutorul aplicație",
+      "strengths": "Design bun",
+      "weaknesses": "Foarte generala, fără feature-uri particularizate la nivelul unui anumit sport",
+      "createdAt": "2026-02-24T09:40:44.225Z"
+    }
+  ],
+  "userInterviews": []
+}

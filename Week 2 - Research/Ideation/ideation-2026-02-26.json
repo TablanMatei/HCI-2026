@@ -1,0 +1,91 @@
+{
+  "insights": [
+    {
+      "id": "1772089414020",
+      "text": "Antrenorii aflați sub presiune în timpul meciurilor pot procesa mental doar între 5 și 9 elemente de date simultan (Regula de ±7). Orice depășește acest prag duce la supraîncărcare cognitivă și erori de judecată.",
+      "clusterId": "1772089492476"
+    },
+    {
+      "id": "1772089436169",
+      "text": "Pentru ca Realitatea Mixtă (MR) să fie utilă și sigură, latența trebuie să fie sub 100 ms (ideal 79.9 ms). O latență mai mare provoacă \"simulator sickness\" și deconectează datele de realitatea de pe teren.",
+      "clusterId": "1772089539329"
+    },
+    {
+      "id": "1772089450002",
+      "text": "Smartwatch-ul este mult mai eficient decât telefonul pentru \"flagging\" (marcarea momentelor cheie) și comunicare haptică, reducând semnificativ timpul dintre intenție și execuție în medii zgomotoase.",
+      "clusterId": "1772089580892"
+    },
+    {
+      "id": "1772089461461",
+      "text": "Continuitatea contextului între dispozitive este esențială; antrenorii pierd secunde prețioase dacă trebuie să navigheze manual pe tabletă pentru a găsi detaliile unei alerte primite pe ceas.",
+      "clusterId": "1772089492476"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "1772089492476",
+      "name": "Eficiență Cognitivă și Vizualizare",
+      "statement": "",
+      "color": "#103162",
+      "insightIds": []
+    },
+    {
+      "id": "1772089539329",
+      "name": "Imersiune și Precizie Tehnică AR",
+      "statement": "",
+      "color": "#7D9BC8",
+      "insightIds": []
+    },
+    {
+      "id": "1772089580892",
+      "name": "Interacțiune Rapidă și Haptică",
+      "statement": "",
+      "color": "#FF8E70",
+      "insightIds": []
+    }
+  ],
+  "hmws": [
+    {
+      "id": "1772089633095",
+      "question": "How might we Cum am putea noi să filtrăm automat datele de pe tabletă astfel încât antrenorul să vadă doar cele mai critice 5 informații în momentele de tensiune maximă?",
+      "answers": [
+        {
+          "id": "1772089697250",
+          "text": "(Tabletă): \"Focus Dashboard Adaptiv\" – O interfață care detectează fazele de joc intens și reduce dashboard-ul la un mod simplificat (numit \"Match Mode\"), afișând doar 5 KPI-uri esențiale cu fonturi de tip Roboto Condensed pentru lizibilitate maximă.",
+          "votes": []
+        },
+        {
+          "id": "1772089941377",
+          "text": "Instant Context Sync. Această soluție vizează întregul ecosistem de dispozitive, asigurând o tranziție fără fricțiune între ele. Ea garantează că, dacă un antrenor \"marchează\" un incident pe smartwatch , informația este sincronizată instantaneu pe tabletă pentru o analiză detaliată, păstrând contextul și progresul utilizatorului neîntrerupt.",
+          "votes": []
+        }
+      ]
+    },
+    {
+      "id": "1772089649822",
+      "question": "How might we Cum am putea noi să proiectăm datele de performanță (viteza, pulsul) direct pe teren, deasupra jucătorilor, fără a obstrucționa vederea antrenorului asupra mingii?",
+      "answers": [
+        {
+          "id": "1772089882794",
+          "text": "(Headset MR): \"Aure Tactice și de Oboseală\" – Suprapuneri AR ancorate spațial care colorează discret \"aura\" unui jucător în roșu dacă viteza lui scade sub 0.8 m/s (indicator de oboseală) sau desenează linii de pasare libere în timp real.",
+          "votes": []
+        }
+      ]
+    },
+    {
+      "id": "1772089664490",
+      "question": "How might we Cum am putea noi să facilităm comunicarea tactică între antrenor și staff prin gesturi simple și vibrații, eliminând nevoia de a vorbi sau de a tasta?",
+      "answers": [
+        {
+          "id": "1772089926327",
+          "text": "Limbaj Haptic Codificat. Această soluție rezolvă problema comunicării în stadioane zgomotoase, unde semnalele vocale pot fi pierdute. Feedback-ul haptic (vibrațiile pe smartwatch) oferă indicii imediate și intuitive fără a suprasolicita canalele vizuale sau auditive. Utilizarea gesturilor și a vibrațiilor permite antrenorului să trimită instrucțiuni staff-ului într-un mod discret și ultra-rapid, reducând latența dintre intenție și execuție.",
+          "votes": []
+        }
+      ]
+    }
+  ],
+  "votingSettings": {
+    "votesPerMember": 5,
+    "teamMembers": []
+  }
+}
