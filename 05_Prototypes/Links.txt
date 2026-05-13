@@ -1,0 +1,9 @@
+Am dat Publish pe Figma și avem un link web pentru fiecare interfață, subdomeniul este al lor.
+Primul link: TABLETĂ
+Al doilea link: SMARTWATCH
+Al treilea link: AR HEADSET
+
+
+https://paint-baggy-62229674.figma.site/
+https://repeat-tofu-60357139.figma.site/
+https://coin-primer-12007321.figma.site/
