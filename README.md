@@ -1,5 +1,5 @@
 # HCI-2026
-Repo with the work for Human Computer Interaction. 3rd year, 2nd semester, Faculty of Computer Sceince Iași
+Repo with the work for Human Computer Interaction. 3rd year, 2nd semester, Faculty of Computer Science Iași
 
 
 # Project description
